@@ -192,6 +192,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # removing news section
+  - _news/announcement_*.md
+  - _includes/news.liquid
 keep_files:
   - CNAME
   - .nojekyll
