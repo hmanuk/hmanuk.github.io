@@ -7,7 +7,7 @@
 #
 layout: home #page
 ---
-![image](pic4.avif){: width="250px" style="float:left; padding-right:20px"}
+![image](self.avif){: width="250px" style="float:left; padding-right:20px"}
 
 <!-- {% include image.html url="pic4.avif" description="My cat, Robert Downey Jr." width="250px" style="float:left;padding-right:20px"%} -->
 
