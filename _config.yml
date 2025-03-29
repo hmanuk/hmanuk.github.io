@@ -1,7 +1,7 @@
 title: haik manukian
 author:
   name: haik manukian
-  email: your-email@domain.com
+  email: haik.manukian1@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -56,7 +56,7 @@ minima:
      url: "https://github.com/hmanuk"
    - title: linkedin
      icon: linkedin
-     url: "https://linkedin.com"
+     url: "https://www.linkedin.com/in/haik-manukian-28336736"
    - title: scholar
      icon: google-scholar
-     url: "https://x.com/jekyllrb"
+     url: "https://scholar.google.com/citations?user=bqxsAcEAAAAJ"

@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: base
 title: etc
 permalink: /etc/
 ---
-Testing.
+Testing. -->
 
 <!-- <audio controls>
   <source src="../test.wav" type="audio/mpeg">
